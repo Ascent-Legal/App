@@ -29,10 +29,13 @@
               "src/index.html",
               "src/generic.html",
               "src/contact.html",
-              "src/elements.html"
+              "src/elements.html",
+              "src/login.html"
+
             ],
             "styles": [
               "src/styles.css",
+              "src/assets/css/loginCSS.css",
               "src/assets/css/main.css",
               "src/assets/css/fontawesome-all.min.css"
             ],
@@ -48,10 +51,6 @@
           },
           "configurations": {
             "production": {
-              //"index": {
-              //  "input": "src/index.prod.html",
-              //  "output": "index.html"
-              //},
               "fileReplacements": [
                 {
                   "replace": "src/environments/environment.ts",
