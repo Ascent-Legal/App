@@ -1,4 +1,4 @@
- Reset CSS 
+/* Reset CSS */
 html, body, div, span, applet, object, iframe,
 h1, h2, h3, h4, h5, h6, p, blockquote, pre,
 a, abbr, acronym, address, big, cite, code,
@@ -299,7 +299,7 @@ form:after {
   text-decoration: underline;
 }
 
-/*.button {
+.button {
   background: rgb(247,249,250);
   background: -moz-linear-gradient(top, rgba(247,249,250,1) 0%, rgba(240,240,240,1) 100%);
   background: -webkit-linear-gradient(top, rgba(247,249,250,1) 0%,rgba(240,240,240,1) 100%);
@@ -319,7 +319,7 @@ form:after {
   border-radius: 0 0 5px 5px;
   border-top: 1px solid #CFD5D9;
   padding: 15px 0;
-}*/
+}
 
   .button a {
     background: url(https://cssdeck.com/uploads/media/items/8/8bcLQqF.png) 0 -112px no-repeat;
