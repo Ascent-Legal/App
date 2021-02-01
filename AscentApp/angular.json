@@ -34,8 +34,8 @@
 
             ],
             "styles": [
-              "src/styles.css",
               "src/assets/css/loginCSS.css",
+              "src/styles.css",
               "src/assets/css/main.css",
               "src/assets/css/fontawesome-all.min.css"
             ],
