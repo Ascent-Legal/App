@@ -26,6 +26,7 @@
             "assets": [
               "src/favicon.ico",
               "src/assets",
+              "src/index.html",
               "src/generic.html",
               "src/contact.html",
               "src/elements.html"
