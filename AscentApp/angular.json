@@ -28,7 +28,7 @@
               "src/assets",
               "src/generic.html",
               "src/contact.html",
-              "src/elements.html",
+              "src/elements.html"
             ],
             "styles": [
               "src/styles.css",
