@@ -2047,9 +2047,10 @@
 			display: inline-block;
 			border-top: solid 2px #e5e5e5;
 			color: #777;
-			margin: 1.5em 0 0 0;
+			margin: 1.5em -20px 50 -20px;
 			padding: 1.5em 0 0 0;
 			font-style: normal;
+      font-size: 3vw;
 		}
 
 /* Form */
